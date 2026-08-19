@@ -43,7 +43,7 @@ export function Header() {
           {/* Logo / Brand */}
           <div className="shrink-0">
             <NavLink to="/" className="text-xl font-bold text-gray-900" onClick={toggleMenu}>
-              Analee Duavis
+              AD
             </NavLink>
           </div>
 
