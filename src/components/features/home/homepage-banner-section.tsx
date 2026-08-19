@@ -20,7 +20,7 @@ export function HomePageBannerSection() {
         <h1 className="text-4xl md:text-6xl font-extrabold tracking-tight text-gray-900 leading-none">
           Hi, I'm{" "}
           <span className="text-transparent bg-clip-text bg-linear-to-r from-blue-600 to-indigo-600">
-            AD
+            Analee Duavis
           </span>
         </h1>
 
