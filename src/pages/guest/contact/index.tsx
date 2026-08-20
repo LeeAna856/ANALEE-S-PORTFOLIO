@@ -36,16 +36,16 @@ export default function ContactPage() {
             <Mail className="w-4 h-4" /> duavisanalee98@gmail.com
           </a>
           <a
-            href="#"
+            href="#https://github.com/LeeAna856"
             className="inline-flex items-center gap-2 px-4 py-2 rounded-lg border border-gray-200 text-sm text-gray-700 hover:border-gray-400 transition-colors"
           >
             <Link2 className="w-4 h-4" /> GitHub
           </a>
           <a
-            href="#"
+            href="#https://web.facebook.com/analee.duavis.1"
             className="inline-flex items-center gap-2 px-4 py-2 rounded-lg border border-gray-200 text-sm text-gray-700 hover:border-gray-400 transition-colors"
           >
-            <Link2 className="w-4 h-4" /> LinkedIn
+            <Link2 className="w-4 h-4" /> facebook
           </a>
         </div>
 
